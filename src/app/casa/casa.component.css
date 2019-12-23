@@ -1,0 +1,30 @@
+div{
+    width: 100px;
+    height: 90px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+}
+img{
+    width: 80px;
+    height: 80px;
+}
+section{
+    border-style: solid;
+    width: 312px;
+    height: 312px;
+    float: left;
+    margin-left: 40%;
+    margin-top: 30px;
+}
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cornflowerblue;
+    color: cornsilk;
+    margin-left: 49%;
+    margin-top: 0px;
+
+}
